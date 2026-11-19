@@ -1,3 +1,8 @@
+---
+layout: default
+title: Conditions générales d’utilisation de Z Dream
+---
+
 # Conditions générales d’utilisation de Z Dream
 
 **Dernière mise à jour : 19 novembre 2026**
